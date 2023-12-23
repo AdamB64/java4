@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=characterName\ characterDescription
+comment0.target=Enemy(java.lang.String,\ java.lang.String)
+comment1.params=enemysWeakness
+comment1.target=void\ setWeakness(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getWeakness()
+comment3.params=combatItem
+comment3.target=boolean\ fight(java.lang.String)
+numComments=4

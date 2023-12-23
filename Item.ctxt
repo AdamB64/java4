@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=itemName
+comment0.target=Item(java.lang.String)
+comment1.params=itemDescription
+comment1.target=void\ setDescription(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getDescription()
+comment3.params=itemName
+comment3.target=void\ setName(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=void\ describe()
+comment6.params=
+comment6.target=void\ getDetails()
+numComments=7
